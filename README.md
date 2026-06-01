@@ -111,7 +111,6 @@ This project helped strengthen practical knowledge in:
 
 **Purvitha Korada**
 
-Aspiring Software Developer | Python Enthusiast | AI & Automation Learner
 
 ---
 
